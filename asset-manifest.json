@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/gumok/static/css/main.93b868d1.css",
+    "main.css": "/gumok/static/css/main.3bd9c364.css",
     "main.js": "/gumok/static/js/main.b5547d8f.js",
     "static/js/453.5df6d417.chunk.js": "/gumok/static/js/453.5df6d417.chunk.js",
     "index.html": "/gumok/index.html",
-    "main.93b868d1.css.map": "/gumok/static/css/main.93b868d1.css.map",
+    "main.3bd9c364.css.map": "/gumok/static/css/main.3bd9c364.css.map",
     "main.b5547d8f.js.map": "/gumok/static/js/main.b5547d8f.js.map",
     "453.5df6d417.chunk.js.map": "/gumok/static/js/453.5df6d417.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.93b868d1.css",
+    "static/css/main.3bd9c364.css",
     "static/js/main.b5547d8f.js"
   ]
 }
